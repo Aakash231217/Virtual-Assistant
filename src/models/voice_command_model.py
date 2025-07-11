@@ -1,0 +1,1 @@
+"\"\"\"Voice Command Model for Shutdown System.\n\nThis module defines the data model for voice commands
